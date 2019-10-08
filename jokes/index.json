@@ -2236,5 +2236,35 @@
     "type": "programming",
     "setup": "What did the router say to the doctor?",
     "punchline": "It hurts when IP."
+  },
+  {
+    "id": 386,
+    "type": "general",
+    "setup": "Why doesn't Dracula have any friends?",
+    "punchline": "Because he's a pain in the neck."
+  },
+  {
+    "id": 387,
+    "type": "general",
+    "setup": "Why did the toliet paper stop rolling?",
+    "punchline": "It got stuck in a crack."
+  },
+  {
+    "id": 388,
+    "type": "programming",
+    "setup": "A UDP packet walks into a bar...",
+    "punchline": "But no one acknowledges him."
+  },
+  {
+    "id": 389,
+    "type": "programming",
+    "setup": " A programmer is going to the grocery store, so his wife tells him \"Get a gallon of milk and if they have eggs get a dozen.\"",
+    "punchline": "He returns with 13 gallons of milk."
+  },
+ {
+    "id": 390,
+    "type": "programming",
+    "setup": "Why did the programmer throw up a IHOP?",
+    "punchline": "He had a stack overflow."
   }
 ]
